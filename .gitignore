@@ -1,3 +1,7 @@
 invoice-generator.html
 .playwright-mcp/
 mobo-ledger-*.png
+node_modules/
+.next/
+out/
+*.tsbuildinfo
