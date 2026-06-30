@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/invoice-generator.html",
+      "destination": "/404.html"
+    }
+  ]
+}
